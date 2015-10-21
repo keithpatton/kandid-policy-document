@@ -10,3 +10,7 @@ If you're completely new to git (or just a designer like me) - read [this excell
 
 Thanks so much,
 @ezy and @juddey
+
+## Terms document
+
+We've downloaded a stock terms document from http://www.freenetlaw.com and it's located in this repo. We'd love people to make submissions to this as well, with the view that a lot of the terms in there seem overly draconian. We considered just putting 'don't be a dick' in out terms doc, but our lawyers advised us against it.
