@@ -2,9 +2,9 @@
 
 ## Introduction
 
-These terms and conditions govern your use of this website; by using this website, you accept these terms and conditions in full.   If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this website.
+These terms and conditions govern your use of http://www.kandid.nz hereafter referred to as "the website"; by using the website, you accept these terms and conditions in full.   If you disagree with these terms and conditions or any part of these terms and conditions, you must not use the website.
 
-This website uses cookies.  By using this website and agreeing to these terms and conditions, you consent to our kandid's use of cookies in accordance with the terms of kandid's privacy policy and cookies policy.
+the website uses cookies.  By using the website and agreeing to these terms and conditions, you consent to our kandid's use of cookies in accordance with the terms of kandid's privacy policy and cookies policy.
 
 ## License to use website
 
@@ -14,34 +14,34 @@ You may view, download for caching purposes only, and print pages from the websi
 
 ### You must not:
 
-republish material from this website (including republication on another website);
+republish material from the website (including republication on another website);
 sell, rent or sub-license material from the website;
 show any material from the website in public;
-reproduce, duplicate, copy or otherwise exploit material on this website for a commercial purpose;
+reproduce, duplicate, copy or otherwise exploit material on the website for a commercial purpose;
 
 ## Acceptable use
 
-You must not use this website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity.
+You must not use the website in any way that causes, or may cause, damage to the website or impairment of the availability or accessibility of the website; or in any way which is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity.
 
-You must not use this website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.
+You must not use the website to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software.
 
-You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to this website without kandid's express written consent.
+You must not conduct any systematic or automated data collection activities (including without limitation scraping, data mining, data extraction and data harvesting) on or in relation to the website without kandid's express written consent.
 
-You must not use this website to transmit or send unsolicited commercial communications.
+You must not use the website to transmit or send unsolicited commercial communications.
 
-You must not use this website for any purposes related to marketing without kandid's express written consent.
+You must not use the website for any purposes related to marketing without kandid's express written consent.
 
 ## Restricted access
 
-Access to certain areas of this website is restricted. kandid reserves the right to restrict access to [other] areas of this website, or indeed this entire website, at kandid's discretion.
+Access to certain areas of the website is restricted. kandid reserves the right to restrict access to [other] areas of the website, or indeed this entire website, at kandid's discretion.
 
-If kandid provides you with a user ID and password to enable you to access restricted areas of this website or other content or services, you must ensure that the user ID and password are kept confidential.  
+If kandid provides you with a user ID and password to enable you to access restricted areas of the website or other content or services, you must ensure that the user ID and password are kept confidential.  
 
 kandid may disable your user ID and password in kandid's sole discretion without notice or explanation.
 
 ## User content
 
-In these terms and conditions, “your user content” means material (including without limitation text, images, audio material, video material and audio-visual material) that you submit to this website, for whatever purpose.
+In these terms and conditions, “your user content” means material (including without limitation text, images, audio material, video material and audio-visual material) that you submit to the website, for whatever purpose.
 
 You grant to kandid a worldwide, irrevocable, non-exclusive, royalty-free license to use, reproduce, adapt, publish, translate and distribute your user content in any existing or future media.  You also grant to kandid the right to sub-license these rights, and the right to bring an action for infringement of these rights.
 
@@ -49,24 +49,24 @@ Your user content must not be illegal or unlawful, must not infringe any third p
 
 You must not submit any user content to the website that is or has ever been the subject of any threatened or actual legal proceedings or other similar complaint.
 
-kandid reserves the right to edit or remove any material submitted to this website, or stored on kandid's servers, or hosted or published upon this website.
+kandid reserves the right to edit or remove any material submitted to the website, or stored on kandid's servers, or hosted or published upon the website.
 
-Notwithstanding kandid's rights under these terms and conditions in relation to user content, kandid does not undertake to monitor the submission of such content to, or the publication of such content on, this website.
+Notwithstanding kandid's rights under these terms and conditions in relation to user content, kandid does not undertake to monitor the submission of such content to, or the publication of such content on, the website.
 
 ## No warranties
 
-This website is provided “as is” without any representations or warranties, express or implied.  kandid makes no representations or warranties in relation to this website or the information and materials provided on this website.  
+the website is provided “as is” without any representations or warranties, express or implied.  kandid makes no representations or warranties in relation to the website or the information and materials provided on the website.  
 
 Without prejudice to the generality of the foregoing paragraph, kandid does not warrant that:
 
-this website will be constantly available, or available at all; or
-the information on this website is complete, true, accurate or non-misleading.
+the website will be constantly available, or available at all; or
+the information on the website is complete, true, accurate or non-misleading.
 
-Nothing on this website constitutes, or is meant to constitute, advice of any kind.  If you require advice in relation to any legal, financial or medical matter you should consult an appropriate professional.
+Nothing on the website constitutes, or is meant to constitute, advice of any kind.  If you require advice in relation to any legal, financial or medical matter you should consult an appropriate professional.
 
 ## Limitations of liability
 
-kandid will not be liable to you (whether under the law of contact, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, this website:
+kandid will not be liable to you (whether under the law of contact, the law of torts or otherwise) in relation to the contents of, or use of, or otherwise in connection with, the website:
 
 for any indirect, special or consequential loss; or
 for any business losses, loss of revenue, income, profits or anticipated savings, loss of contracts or business relationships, loss of reputation or goodwill, or loss or corruption of information or data.
@@ -75,7 +75,7 @@ These limitations of liability apply even if kandid has been expressly advised o
 
 ## Exceptions
 
-Nothing in this website disclaimer will exclude or limit any warranty implied by law that it would be unlawful to exclude or limit; and nothing in this website disclaimer will exclude or limit kandid's liability in respect of any:
+Nothing in the website disclaimer will exclude or limit any warranty implied by law that it would be unlawful to exclude or limit; and nothing in the website disclaimer will exclude or limit kandid's liability in respect of any:
 
 death or personal injury caused by kandid's negligence;
 fraud or fraudulent misrepresentation on the part of kandid; or
@@ -83,19 +83,19 @@ matter which it would be illegal or unlawful for kandid to exclude or limit, or 
 
 ## Reasonableness
 
-By using this website, you agree that the exclusions and limitations of liability set out in this website disclaimer are reasonable.  
+By using the website, you agree that the exclusions and limitations of liability set out in the website disclaimer are reasonable.  
 
-If you do not think they are reasonable, you must not use this website.
+If you do not think they are reasonable, you must not use the website.
 
 ## Other parties
 
 [You accept that, as a limited liability entity, Wiry Ltd. trading as kandid has an interest in limiting the personal liability of its officers and employees.  You agree that you will not bring any claim personally against kandid's officers or employees in respect of any losses you suffer in connection with the website.
 
-Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in this website disclaimer will protect kandid's officers, employees, agents, subsidiaries, successors, assigns and sub-contractors as well as kandid.
+Without prejudice to the foregoing paragraph, you agree that the limitations of warranties and liability set out in the website disclaimer will protect kandid's officers, employees, agents, subsidiaries, successors, assigns and sub-contractors as well as kandid.
 
 ## Unenforceable provisions
 
-If any provision of this website disclaimer is, or is found to be, unenforceable under applicable law, that will not affect the enforceability of the other provisions of this website disclaimer.
+If any provision of the website disclaimer is, or is found to be, unenforceable under applicable law, that will not affect the enforceability of the other provisions of the website disclaimer.
 
 ## Indemnity
 
@@ -107,7 +107,7 @@ Without prejudice to kandid's other rights under these terms and conditions, if 
 
 ## Variation
 
-kandid may revise these terms and conditions from time-to-time.  Revised terms and conditions will apply to the use of this website from the date of the publication of the revised terms and conditions on this website.  Please check this page regularly to ensure you are familiar with the current version.
+kandid may revise these terms and conditions from time-to-time.  Revised terms and conditions will apply to the use of the website from the date of the publication of the revised terms and conditions on the website.  Please check this page regularly to ensure you are familiar with the current version.
 
 ## Assignment
 
@@ -121,7 +121,7 @@ If a provision of these terms and conditions is determined by any court or other
 
 ## Entire agreement
 
-These terms and conditions [, together with [DOCUMENTS],] constitute the entire agreement between you and kandid in relation to your use of this website, and supersede all previous agreements in respect of your use of this website.
+These terms and conditions [, together with [DOCUMENTS],] constitute the entire agreement between you and kandid in relation to your use of the website, and supersede all previous agreements in respect of your use of the website.
 
 ## Law and jurisdiction
 
